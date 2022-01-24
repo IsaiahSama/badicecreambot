@@ -1,0 +1,17 @@
+player 1 - Arrow Keys
+    Shoot - SPACE
+
+Player 2 - WASD keys
+    shoot - F
+
+Goal: 
+    Pick up all fruit to complete level
+    Avoid being flattened by the enemies
+
+Notes:
+    Bot should be able to recognise it's own color, along with the color of the teammate.
+    Bot should be able eto recognise the current fruit
+    Character faces down after breaking ice
+
+BIG Problems:
+    Detecting Enemies
